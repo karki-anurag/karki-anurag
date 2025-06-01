@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @karki-anurag
+- 👀 I’m interested in Python, Machine Learning, Ethical Hacking, Web Development
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on Different Open-Source Projects
+- 📫 You can reach me through my Email anuragkarki2004@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: The way of life is learning
