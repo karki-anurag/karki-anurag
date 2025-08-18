@@ -1,6 +1,6 @@
 -  Hi, I’m @karki-anurag
--  I’m a Coder, an Ethical Hacker and an Athlete
--  I’m currently gaining experience in Django(python)
+-  I’m a Coder and an Athlete
+-  I’m currently gaining experience in Django(python) and Spring Boot(Java)
 -  You can reach me through my Email anuragkarki2004@gmail.com
 -  Pronouns: He/him
 -  Fun fact: The way of life is learning
